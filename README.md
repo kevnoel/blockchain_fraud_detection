@@ -2,7 +2,7 @@
 ### Instruction Steps
 
 1. Please clone this repository and install env.yaml to run the notebooks.
-1. The notebook runs in Python == 3.13.14 and specific dependancies version due to some packages require specific version hence follow step 1.
+1. The notebook runs in Python == 3.11.14 and specific dependancies version due to some packages require specific version hence follow step 1.
 1. Download the link below and paste in datasets in the "data" folder. Please adjust the directory manually.
 
 **DATASET CAN BE FOUND HERE: [Google Drive](https://drive.google.com/drive/folders/1MRPXz79Lu_JGLlJ21MDfML44dKN9R08l?usp=sharing)**
