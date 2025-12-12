@@ -1,0 +1,5 @@
+# Ignore large files
+
+data/01-raw
+data/02-cleaned
+data/03-preprocessed
