@@ -43,8 +43,8 @@ Variables to use based on mapped dataset
 ### Observing Class Imbalance
 
 Class Proportion: 
-<br>Illicit: 90.13% 
-<br>Licit: 9.87%
+<br>Licit: 90.13% 
+<br>Illicit: 9.87%
 
 ![alt text](image.png)
 
@@ -57,3 +57,7 @@ A total of 83000 new sampling created by SMOTE to address class imbalance
 **Total Cleaned Size After SMOTE**
 <br>Rows: 129045 
 <br>Columns: 185
+
+## Note for Leo
+
+1. Use df_preprocessed.csv to proceed with feature engineering
