@@ -55,9 +55,9 @@ A total of 83000 new sampling created by SMOTE to address class imbalance
 **Note that the sampled data does not exist any txId and solely for model training only.
 
 **Total Cleaned Size After SMOTE**
-Total Cleaned Size After SMOTE 
- 	Rows:       83000 
- 	Columns:    184
+<br>Total Cleaned Size After SMOTE 
+<br>    Rows:       83000 
+<br>    Columns:    184
 
 
 ## Note for Leo
